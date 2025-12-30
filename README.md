@@ -54,7 +54,7 @@ ExcelMergerPro/
 ├── build.py                # Script de automação do PyInstaller
 ├── main.py                 # Ponto de entrada (Entry Point)
 └── requirements.txt        # Dependências
-
+```
 ## ⚙️ Instalação e Uso
 
 1. **Clone o repositório:**
@@ -91,4 +91,5 @@ ExcelMergerPro/
 
 O projeto segue princípios **SOLID**.
 - Ao criar novas features de processamento, adicione ao `services/`.
+
 - Ao alterar a interface, modifique apenas `ui/`.
